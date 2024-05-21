@@ -1,0 +1,63 @@
+.main{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80vw;
+}
+.me-auto{
+    display: flex;
+    gap:50px;
+    font-size: 30px;
+    
+}
+.me-auto a:hover{
+    color: white;
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+    gap:20px;
+}
+.icons img{
+  
+    height:30px;
+    align-items: center;
+    cursor:pointer;
+    
+}
+.logof{
+    height:60px;
+    width:60px;
+    border-radius:50%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border-style: solid;
+    border-color:grey;
+}
+.logos{
+    height:60px;
+    width:60px;
+    border-radius:50%;
+    display:flex;
+    border-style: solid;
+    border-color:grey;
+    justify-content: center;
+    align-items: center;
+}
+.logot{
+    height:60px;
+    width:60px;
+    border-radius:50%;
+    display:flex;
+    border-style: solid;
+    border-color:grey;
+    justify-content: center;
+    align-items: center;
+    
+}
+.connectbutton
+{
+    width:200px;
+    height:60px;
+}

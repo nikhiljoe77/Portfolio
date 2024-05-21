@@ -1,0 +1,21 @@
+.main{
+    display:flex;
+    gap:100px;
+    
+}
+.welcome{
+    color:white;
+    border-style: solid;
+    padding:2px 10px 2px 10px;
+    border-color: grey; 
+    width: 300px;
+    
+}
+.description{
+    color:white
+}
+.details {
+    color:white;
+    font-size:30px;
+    
+}
